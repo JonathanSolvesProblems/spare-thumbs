@@ -1,0 +1,72 @@
+{
+  "model": "qwen3.5:4b",
+  "items": 15,
+  "picks": {
+    "gemma_with_my_replies": 50,
+    "jonathan": 30,
+    "gemma_plain": 10
+  },
+  "per_item": [
+    {
+      "gemma_with_my_replies": 2,
+      "jonathan": 3,
+      "gemma_plain": 1
+    },
+    {
+      "gemma_plain": 2,
+      "jonathan": 2,
+      "gemma_with_my_replies": 2
+    },
+    {
+      "gemma_with_my_replies": 6
+    },
+    {
+      "gemma_with_my_replies": 2,
+      "jonathan": 2,
+      "gemma_plain": 2
+    },
+    {
+      "gemma_plain": 2,
+      "gemma_with_my_replies": 2,
+      "jonathan": 2
+    },
+    {
+      "jonathan": 6
+    },
+    {
+      "gemma_with_my_replies": 4,
+      "jonathan": 2
+    },
+    {
+      "jonathan": 1,
+      "gemma_with_my_replies": 5
+    },
+    {
+      "jonathan": 4,
+      "gemma_with_my_replies": 2
+    },
+    {
+      "gemma_with_my_replies": 5,
+      "jonathan": 1
+    },
+    {
+      "gemma_with_my_replies": 6
+    },
+    {
+      "gemma_with_my_replies": 1,
+      "jonathan": 5
+    },
+    {
+      "gemma_with_my_replies": 2,
+      "gemma_plain": 2,
+      "jonathan": 2
+    },
+    {
+      "gemma_with_my_replies": 5,
+      "gemma_plain": 1
+    },
+    {
+      "gemma_with_my_replies": 6
+    }
+  ]
+}

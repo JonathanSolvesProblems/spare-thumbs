@@ -1,0 +1,68 @@
+{
+  "model": "qwen2.5vl:7b",
+  "items": 15,
+  "picks": {
+    "jonathan": 10,
+    "gemma_with_my_replies": 32,
+    "gemma_plain": 48
+  },
+  "per_item": [
+    {
+      "jonathan": 3,
+      "gemma_with_my_replies": 3
+    },
+    {
+      "gemma_with_my_replies": 3,
+      "gemma_plain": 3
+    },
+    {
+      "gemma_plain": 6
+    },
+    {
+      "gemma_plain": 1,
+      "jonathan": 1,
+      "gemma_with_my_replies": 4
+    },
+    {
+      "gemma_plain": 6
+    },
+    {
+      "jonathan": 5,
+      "gemma_with_my_replies": 1
+    },
+    {
+      "gemma_plain": 5,
+      "gemma_with_my_replies": 1
+    },
+    {
+      "gemma_plain": 5,
+      "gemma_with_my_replies": 1
+    },
+    {
+      "gemma_plain": 2,
+      "gemma_with_my_replies": 4
+    },
+    {
+      "gemma_with_my_replies": 4,
+      "gemma_plain": 2
+    },
+    {
+      "gemma_with_my_replies": 4,
+      "gemma_plain": 1,
+      "jonathan": 1
+    },
+    {
+      "gemma_plain": 5,
+      "gemma_with_my_replies": 1
+    },
+    {
+      "gemma_plain": 6
+    },
+    {
+      "gemma_plain": 6
+    },
+    {
+      "gemma_with_my_replies": 6
+    }
+  ]
+}

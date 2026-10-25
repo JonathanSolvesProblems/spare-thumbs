@@ -1,0 +1,18 @@
+﻿.venv/
+__pycache__/
+*.pyc
+# Private data never lives in the repo; this is a second lock in case it is copied in by mistake.
+hf26-private-data/
+credentials.json
+token.json
+*.jsonl
+# Scratch scripts and the Phase 0 card (it names real people) stay local.
+tmp/
+PHASE0.md
+# Demo video working files
+broll/
+*.webm
+*.edit-plan.json
+demo*.mp4
+shot-list.json
+spare-thumbs-short*

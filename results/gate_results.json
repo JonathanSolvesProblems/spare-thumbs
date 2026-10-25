@@ -1,0 +1,300 @@
+[
+  {
+    "request": "Hi Jon, something came up tomorrow morning, could we move our 10h to 13h?",
+    "spare_thumbs": {
+      "draft": "hey sam, no problem at all! i can't do 13h cuz i have another meeting then, but i'm free at 14h30 or 15h. let me know what works for you! thx",
+      "offered": [
+        "2026-10-26T14:30",
+        "2026-10-26T15:00"
+      ],
+      "busy": {},
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    },
+    "no_calendar": {
+      "draft": "hey sam! no problem at all, 13h on monday works for me! thx :)",
+      "offered": [
+        "2026-10-26T13:00"
+      ],
+      "busy": {
+        "2026-10-26T13:00": [
+          "overlaps 'Insurance assessor (flood)' 12:30-14:30 on Mon 26 Oct"
+        ]
+      },
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    }
+  },
+  {
+    "request": "Hey, can we do Tuesday morning instead for the site review?",
+    "spare_thumbs": {
+      "draft": "hey sam, totally! tuesday morning is tricky for me, but i got a spot at 12h. does that work for the site review? let me know!",
+      "offered": [
+        "2026-10-27T12:00"
+      ],
+      "busy": {},
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    },
+    "no_calendar": {
+      "draft": "hey sam, tuesday morning works for me! how about 9h, 10h, or 11h? let me know what's best for u 😎",
+      "offered": [
+        "2026-10-27T09:00",
+        "2026-10-27T10:00",
+        "2026-10-27T11:00"
+      ],
+      "busy": {
+        "2026-10-27T09:00": [
+          "overlaps 'Client workshop' 09:00-12:00 on Tue 27 Oct"
+        ],
+        "2026-10-27T10:00": [
+          "overlaps 'Client workshop' 09:00-12:00 on Tue 27 Oct"
+        ],
+        "2026-10-27T11:00": [
+          "overlaps 'Client workshop' 09:00-12:00 on Tue 27 Oct"
+        ]
+      },
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    }
+  },
+  {
+    "request": "Would Wednesday 14h work instead of Monday?",
+    "spare_thumbs": {
+      "draft": "hey sam, 14h on wednesday is booked for me, sorry! how about 11h or 17h instead? let me know what works for u 😉",
+      "offered": [
+        "2026-10-28T11:00",
+        "2026-10-28T17:00"
+      ],
+      "busy": {},
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    },
+    "no_calendar": {
+      "draft": "hey sam, yeah that works for me! wednesday at 14h is good. thx!",
+      "offered": [
+        "2026-10-28T14:00"
+      ],
+      "busy": {
+        "2026-10-28T14:00": [
+          "overlaps 'On site, Laval' 13:00-17:00 on Wed 28 Oct"
+        ]
+      },
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    }
+  },
+  {
+    "request": "Could we push the review to Saturday morning? Easier for me",
+    "spare_thumbs": {
+      "draft": "hey sam, saturday morning is tough for me, i don't take meetings on weekends. but i got a couple slots monday if that works: 11h or 14h30. let me know!",
+      "offered": [
+        "2026-10-26T11:00",
+        "2026-10-26T14:30"
+      ],
+      "busy": {},
+      "blocked_busy": 1,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    },
+    "no_calendar": {
+      "draft": "hey sam! saturday morning is tough for me, but i can totally move it to a weekday! how about monday at 10h or tuesday at 11h? thx! 😉",
+      "offered": [
+        "2026-10-26T10:00",
+        "2026-10-27T11:00"
+      ],
+      "busy": {
+        "2026-10-27T11:00": [
+          "overlaps 'Client workshop' 09:00-12:00 on Tue 27 Oct"
+        ]
+      },
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    }
+  },
+  {
+    "request": "Can we move it to Thursday 9h30?",
+    "spare_thumbs": {
+      "draft": "hey sam, 9h30 is booked for me that day lol. but i'm free from 10h onwards! how about 10h or maybe 14h? let me know what works! thx 😎",
+      "offered": [
+        "2026-10-29T10:00",
+        "2026-10-29T14:00"
+      ],
+      "busy": {},
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    },
+    "no_calendar": {
+      "draft": "hey sam, yeah that works for me! thursday at 9h30 is good. thx! 😎",
+      "offered": [],
+      "busy": {},
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    }
+  },
+  {
+    "request": "Friday 11h works for me, does it for you?",
+    "spare_thumbs": {
+      "draft": "hey Sam, sorry, 11h is taken for me. how about 10h or 14h on friday instead? thx!",
+      "offered": [
+        "2026-10-30T10:00",
+        "2026-10-30T14:00"
+      ],
+      "busy": {},
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    },
+    "no_calendar": {
+      "draft": "hey sam, friday 11h works for me! perfect. thx 😎",
+      "offered": [
+        "2026-10-30T11:00"
+      ],
+      "busy": {
+        "2026-10-30T11:00": [
+          "overlaps 'Accountant' 11:00-12:00 on Fri 30 Oct"
+        ]
+      },
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    }
+  },
+  {
+    "request": "Can we do tomorrow 19h after work instead?",
+    "spare_thumbs": {
+      "draft": "hey sam, 19h is outside my usual hours, sorry! 😅\n\ni have some time on monday at 14h30 or 17h. would either of those work for u?\n\nthx!",
+      "offered": [
+        "2026-10-26T14:30",
+        "2026-10-26T17:00"
+      ],
+      "busy": {},
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    },
+    "no_calendar": {
+      "draft": "hey sam, i'm kinda booked after 18h on weekdays, but i could do something monday between 9h and 18h if that works for u? 😉 thx!",
+      "offered": [
+        "2026-10-26T09:00",
+        "2026-10-26T14:00",
+        "2026-10-26T16:00"
+      ],
+      "busy": {
+        "2026-10-26T14:00": [
+          "overlaps 'Insurance assessor (flood)' 12:30-14:30 on Mon 26 Oct"
+        ],
+        "2026-10-26T16:00": [
+          "overlaps 'Dentist' 16:00-17:00 on Mon 26 Oct"
+        ]
+      },
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    }
+  },
+  {
+    "request": "Can we do Monday 15h instead of 10h?",
+    "spare_thumbs": {
+      "draft": "hey sam, 15h on monday works for me! thx for the heads up! 😉",
+      "offered": [
+        "2026-10-26T15:00"
+      ],
+      "busy": {},
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    },
+    "no_calendar": {
+      "draft": "hey sam, yeah monday at 15h works for me! thx 😎",
+      "offered": [],
+      "busy": {},
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    }
+  },
+  {
+    "request": "Tuesday 15h maybe?",
+    "spare_thumbs": {
+      "draft": "hey sam, tuesday at 15h works for me! thx 😎",
+      "offered": [
+        "2026-10-27T15:00"
+      ],
+      "busy": {},
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 1,
+      "handed_off": null
+    },
+    "no_calendar": {
+      "draft": "hey sam, tuesday at 15h works for me! thx! 😉",
+      "offered": [
+        "2026-10-27T15:00"
+      ],
+      "busy": {},
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    }
+  },
+  {
+    "request": "Any chance we can do Wednesday afternoon instead?",
+    "spare_thumbs": {
+      "draft": "hey sam, wednesday afternoon works! i'm free at 17h. does that work for u? 😉",
+      "offered": [
+        "2026-10-28T17:00"
+      ],
+      "busy": {},
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    },
+    "no_calendar": {
+      "draft": "hey sam! yeah, wednesday afternoon works for me! how about 13h or 15h? let me know what works for you! 😉",
+      "offered": [
+        "2026-10-28T13:00",
+        "2026-10-28T15:00"
+      ],
+      "busy": {
+        "2026-10-28T13:00": [
+          "overlaps 'On site, Laval' 13:00-17:00 on Wed 28 Oct"
+        ],
+        "2026-10-28T15:00": [
+          "overlaps 'On site, Laval' 13:00-17:00 on Wed 28 Oct"
+        ]
+      },
+      "blocked_busy": 0,
+      "blocked_unchecked": 0,
+      "blocked_language": 0,
+      "handed_off": null
+    }
+  }
+]
